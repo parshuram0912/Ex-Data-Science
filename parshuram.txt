@@ -1,0 +1,2 @@
+now i have learn about python file handeling in which the r denotens file are open in read mode
+and the file are open in write modes for wthis the additional line using append function
